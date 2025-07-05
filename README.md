@@ -1,26 +1,29 @@
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-</div>
+<p align="center">
+  Codando o que ninguém vê, mas todo mundo usa.
+</p>
 
-###
+---
 
-<p align="center">Codando o que ninguém vê, mas geral usa.</p>
+### 🛠️ Tecnologias que utilizo:
 
-###
+- JavaScript, HTML5, CSS3
+- Java
+- AWS (Amazon Web Services)
+- Git e controle de versão
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hadzab&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Hadzab&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=bear&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
+---
 
-###
+### 🚀 Sobre mim
+
+Sou movida por desafios e motivada a entregar soluções eficientes. Gosto de explorar novas tecnologias, aprender com cada projeto e colaborar em times com foco em resultado. 
+
+Sempre buscando unir **qualidade de código**, **performance** e **boa comunicação**.
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Hadzab&show_icons=true&count_private=true&theme=dracula&hide_border=false" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Hadzab&layout=compact&langs_count=6&theme=bear&hide_border=false" height="150" />
+</p>

@@ -21,9 +21,3 @@ Sempre buscando unir **qualidade de código**, **performance** e **boa comunica�
 
 ---
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hadzab&show_icons=true&count_private=true&theme=dracula&hide_border=false" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Hadzab&layout=compact&langs_count=6&theme=bear&hide_border=false" height="150" />
-</p>

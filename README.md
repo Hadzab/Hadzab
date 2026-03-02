@@ -1,23 +1,51 @@
+<h1 align="center">Hi, I'm Hadassa 👋</h1>
+
 <p align="center">
-  Codando o que ninguém vê, mas todo mundo usa.
+  Backend Developer • Java • Spring Boot  
+  <br>
+  <em>Codando o que ninguém vê, mas todo mundo usa.</em>
 </p>
 
 ---
 
-### 🛠️ Tecnologias que utilizo:
+## 👩‍💻 About Me
 
-- JavaScript, HTML5, CSS3
-- Java
-- AWS (Amazon Web Services)
-- Git e controle de versão
+Sou desenvolvedora focada em backend, apaixonada por construir APIs bem estruturadas e soluções eficientes.  
+Gosto de entender como as coisas funcionam por trás dos sistemas e transformar problemas complexos em código simples.
 
----
-
-### 🚀 Sobre mim
-
-Sou movida por desafios e motivada a entregar soluções eficientes. Gosto de explorar novas tecnologias, aprender com cada projeto e colaborar em times com foco em resultado. 
-
-Sempre buscando unir **qualidade de código**, **performance** e **boa comunicação**.
+🎯 Foco em:
+- Qualidade de código
+- Performance
+- Organização
+- Boa comunicação em equipe
 
 ---
 
+## 🚀 Tech Stack
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring Boot-6DB33F?logo=spring&logoColor=white"/>
+  <img src="https://img.shields.io/badge/REST API-000000?logo=swagger"/>
+  <img src="https://img.shields.io/badge/JPA-59666C"/>
+  <img src="https://img.shields.io/badge/Hibernate-59666C"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white"/>
+</p>
+
+---
+
+## 📚 Currently Learning
+
+- Arquitetura de Software
+- Microsserviços
+- Cloud & Deploy
+- Boas práticas de código limpo
+
+---
+
+## 📫 Connect with me
+
+- 💼 LinkedIn: www.linkedin.com/in/hadassa-pinheiro-26909426b
+- 🌐 GitHub: https://github.com/Hadzab

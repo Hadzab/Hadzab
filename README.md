@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Hadassa 👋</h1>
+<h1 align="center">Hadassa</h1>
 
 <p align="center">
   Backend Developer • Data Analyst • Java & Spring Boot
@@ -10,13 +10,13 @@
 
 ## About Me
 
-Sou desenvolvedora backend e analista de dados, focada em construir aplicações organizadas, eficientes e escaláveis.
+I am a backend developer and data analyst, focused on building organized, efficient, and scalable applications.
 
-Gosto de entender como os sistemas funcionam por trás das interfaces e transformar problemas complexos em soluções simples e bem estruturadas.
+I enjoy understanding how systems work behind the interfaces and transforming complex problems into simple, well-structured solutions.
 
-Atualmente estudando:
-- Arquitetura de Software
-- Microsserviços
+Currently studying:
+- Software Architecture
+- Microsservices
 - Cloud & Deploy
 - Clean Code & Design Patterns
 
@@ -65,5 +65,5 @@ Atualmente estudando:
 
 ## Connect with Me
 
-- LinkedIn: www.linkedin.com/in/hadassa-pinheiro-26909426b
+- LinkedIn: www.linkedin.com/in/hadzab
 - GitHub: https://github.com/Hadzab

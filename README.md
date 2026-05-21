@@ -34,6 +34,12 @@ Atualmente estudando:
   <img src="https://img.shields.io/badge/REST API-000000?logo=swagger"/>
 </p>
 
+### Cloud
+<p>
+  <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Amazon EC2-FF9900?logo=amazonec2&logoColor=white"/>
+</p>
+
 ### Database
 <p>
   <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white"/>
@@ -59,5 +65,5 @@ Atualmente estudando:
 
 ## Connect with Me
 
-- LinkedIn: www.linkedin.com/in/hadzab
+- LinkedIn: www.linkedin.com/in/hadassa-pinheiro-26909426b
 - GitHub: https://github.com/Hadzab
